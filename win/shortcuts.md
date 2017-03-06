@@ -7,7 +7,7 @@ You can do the general workflow without getting hands off keyboard.
 Action | Default Key
 ----|---
 Show Icons8 Window | Alt + Ctrl + 8
-Search icons | Ctrl + F
+Search icons | Ctrl + F or F3
 Move between search results | Arrow keys
 Choose style | Tab, then choose with ↓↑ arrows
 Choose style | Tab twice, then choose with ↓↑ arrows
@@ -38,8 +38,8 @@ If there're more then 100 icons in the current view, only the first 100 icons wi
 
 Action | Default Key
 ----|---
-Add selected icon to the current collection | Spacebar
-Undo the latter | Spacebar again
+Add selected icon to the current collection | Spacebar _or_ Numeric +
+Undo the latter | Spacebar again _or_  Ctrl+Z _or_ Alt+Backspace
 New collection |  Ctrl + N
 Rename collection | F2
 Delete collection |  Ctrl + Delete
