@@ -41,7 +41,7 @@ Action | Default Key
 Add selected icon to the current collection | Spacebar
 Undo the latter | Spacebar again
 New collection |  Ctrl + N
-Rename collection | Enter
+Rename collection | F2
 Delete collection |  Ctrl + Delete
 Save all icons from a collection |  Alt + Ctrl + S _or_ Ctrl + S
 
