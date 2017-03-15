@@ -2,11 +2,20 @@
 
 You can do the general workflow without getting hands off keyboard.
 
-## Searching 
+## Opening
 
 Action | Default Key
 ----|---
 Show Icons8 Window | ⎇ ⌘ 8
+
+## Searching 
+
+_Starting typing anywhere_ in the app _initiates searching_. 
+
+Ctrl+F does it more explicitly: switches focus to the search string and selects the text.
+
+Action | Default Key
+----|---
 Search icons | ⌘ F
 Move between search results | Arrow keys
 Choose style | Tab, then choose with ↓↑ arrows
